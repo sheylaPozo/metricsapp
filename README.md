@@ -32,7 +32,7 @@ The main purpose of the project [metricsapp](southamericacovid19.netlify.app) is
 
 🤍 [Netlify](southamericacovid19.netlify.app)
 
-----
+---
 
 # 🤍 Live Video 🤍
 
