@@ -10,7 +10,7 @@
 ---------------------------------------------
 Desktop version      | Mobile version
 -------------------- | ----------------------
-![Desktop](https://user-images.githubusercontent.com/54015740/133538271-58594bea-b962-4586-a938-a4a76dac41fd.png)![screens](https://user-images.githubusercontent.com/54015740/133538979-4763ff03-c365-450a-ac9f-831bd5a517f5.png)|![Mobile](https://user-images.githubusercontent.com/54015740/133538270-8d8d3ae2-1877-4e2d-9ad9-208cc2a018fe.png)![mobile](https://user-images.githubusercontent.com/54015740/133538972-c66f54b4-09f0-4ca9-9ae4-fb8b6f454d69.png)
+![Desktop](https://user-images.githubusercontent.com/54015740/133538271-58594bea-b962-4586-a938-a4a76dac41fd.png)![screens](https://user-images.githubusercontent.com/54015740/133538979-4763ff03-c365-450a-ac9f-831bd5a517f5.png)|![mobile](https://user-images.githubusercontent.com/54015740/133538972-c66f54b4-09f0-4ca9-9ae4-fb8b6f454d69.png)![Mobile](https://user-images.githubusercontent.com/54015740/133538270-8d8d3ae2-1877-4e2d-9ad9-208cc2a018fe.png)
 --------------------------------------------
 
 ## 🤍 Built With:
