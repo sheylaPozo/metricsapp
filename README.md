@@ -25,12 +25,12 @@ Desktop version      | Mobile version
 - DomWebpack 🤍
 
 ---
-The main purpose of the project [metricsapp]() is to put in practice HTML5, CSS3, and Javascript concepts to build a website with all the proffesional outview of it.
+The main purpose of the project [metricsapp](southamericacovid19.netlify.app) is to put in practice HTML5, CSS3, and Javascript concepts to build a website with all the proffesional outview of it.
 ~
 # 🤍 Live Demo 🤍
 ---
 
-🤍 [Netlify]()
+🤍 [Netlify](southamericacovid19.netlify.app)
 
 ---
 
