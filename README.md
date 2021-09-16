@@ -34,6 +34,12 @@ The main purpose of the project [metricsapp](southamericacovid19.netlify.app) is
 
 ---
 
+# 🤍 Live Video 🤍
+
+🤍 [Loom](https://www.loom.com/share/0f28119f61c8413b972808a531018bbb)
+
+---
+
 # 🤍 Instructions:
 
 To get a local copy up and running follow these simple sample steps.
