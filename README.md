@@ -166,7 +166,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Contributions, issues, and feature requests are welcome! 🤍
 
 
-Feel free to check the [issues page](https://github.com/metricsapp/issues).
+Feel free to check the [issues page](https://github.com/sheylaPozo/metricsapp/issues).
 
 
 ## 🤍 Show your support
