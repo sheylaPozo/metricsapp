@@ -50,7 +50,7 @@ To get the content of this project locally you need to run this command on your 
 
  - ` cd <folder> `
 
-- ` git clone git@github.com:sheylaPozo/metricswebapp.git`
+- ` git clone git@github.com:sheylaPozo/metricsapp.git`
 
 ### 🤍 Install
 
