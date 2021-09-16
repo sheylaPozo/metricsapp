@@ -1,0 +1,41 @@
+.Details-banner {
+  padding: 24px;
+  display: flex;
+  gap: 30px;
+  text-align: end;
+}
+
+.Details-banner-right {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Details-banner-left {
+  width: 100%;
+  align-items: flex-start;
+}
+
+.Details-item {
+  padding: 24px 8px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+
+.Details-item:nth-child(odd) {
+  background-color: rgba(225, 225, 225, 0.08);
+}
+
+.Details-item-title {
+  font-family: GillSansMedium, sans-serif;
+  font-size: 20px;
+}
+
+.Details-item-right {
+  display: flex;
+  gap: 20px;
+}

@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import LoadingBar from 'react-redux-loading-bar';
+import Home from './components/home/Home';
+import Details from './components/details/Details';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const routes = [
+  {
+    path: '/',
+    name: 'Home',
+    component: Home,
+  },
+  {
+    path: '/country/:name',
+    name: 'Details',
+    component: Details,
+  },
+];
+
+const App = () => (
+  <Router>
+    <LoadingBar className="App-loading-bar" />
+    <Switch>
+      {routes.map(({ path, component }) => (
+        <Route key={path} exact path={path} component={component} />
+      ))}
+    </Switch>
+  </Router>
+);
 
 export default App;
