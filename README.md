@@ -38,7 +38,7 @@ The main purpose of the project [metricsapp](southamericacovid19.netlify.app) is
 
 🤍 [Loom](https://www.loom.com/share/0f28119f61c8413b972808a531018bbb)
 
-----
+---
 
 # 🤍 Instructions:
 
