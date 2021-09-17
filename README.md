@@ -1,4 +1,5 @@
-![Microverse](https://img.shields.io/badge/Microverse2.0-blueviolet) ![app](https://img.shields.io/badge/Myapp-blue)
+![Microverse](https://img.shields.io/badge/Microverse2.0-blueviolet) ![app](https://img.shields.io/badge/Myapp-blue) 
+[![Netlify Badge Status](https://api.netlify.com/api/v1/badges/edd2484f-2880-4bef-a479-d1a16fd296b1/deploy-status)](https://app.netlify.com/sites/southamericacovid19/deploys)
 ---
 # metricswebapp
 
@@ -31,8 +32,6 @@ The main purpose of the project [metricsapp](southamericacovid19.netlify.app) is
 ---
 
 🤍 [Netlify](southamericacovid19.netlify.app)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/edd2484f-2880-4bef-a479-d1a16fd296b1/deploy-status)](https://app.netlify.com/sites/southamericacovid19/deploys)
 
 ---
 
