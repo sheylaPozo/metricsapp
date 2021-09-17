@@ -8,7 +8,6 @@ test('should return the initial state', () => {
   };
 
   const newState = reducer(undefined, {});
-
   expect(newState).toEqual(initialState);
 });
 
