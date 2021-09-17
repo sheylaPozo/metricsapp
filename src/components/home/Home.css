@@ -62,3 +62,13 @@
   right: 4px;
   top: 4px;
 }
+
+input {
+  width: 97%;
+  font-size: 1.3rem;
+  padding: 1.5%;
+  color: #333;
+  background-color: #f7abc8;
+  border: none;
+  outline: none;
+}
