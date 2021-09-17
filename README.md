@@ -11,7 +11,7 @@
 ---------------------------------------------
 Desktop version      | Mobile version
 -------------------- | ----------------------
-![Desktop](https://user-images.githubusercontent.com/54015740/133538271-58594bea-b962-4586-a938-a4a76dac41fd.png)![s](https://user-images.githubusercontent.com/54015740/133538979-4763ff03-c365-450a-ac9f-831bd5a517f5.png)![1](https://user-images.githubusercontent.com/54015740/133805052-e5c6ac32-98cb-4666-8971-f38305a06647.png)![2nd](https://user-images.githubusercontent.com/54015740/133805045-2b822fa0-a106-42d0-95d9-6f1538e81525.png)|![mobile](https://user-images.githubusercontent.com/54015740/133805054-b4a094d1-7c03-4b84-8a6e-4b8924579679.png)![Mobile](https://user-images.githubusercontent.com/54015740/133538270-8d8d3ae2-1877-4e2d-9ad9-208cc2a018fe.png)![3](https://user-images.githubusercontent.com/54015740/133805056-29b37f79-800a-4aef-b46f-4e15431012d3.png)
+![Desktop](https://user-images.githubusercontent.com/54015740/133538271-58594bea-b962-4586-a938-a4a76dac41fd.png)![s](https://user-images.githubusercontent.com/54015740/133538979-4763ff03-c365-450a-ac9f-831bd5a517f5.png)![1](https://user-images.githubusercontent.com/54015740/133805045-2b822fa0-a106-42d0-95d9-6f1538e81525.png)|![mobile](https://user-images.githubusercontent.com/54015740/133805054-b4a094d1-7c03-4b84-8a6e-4b8924579679.png)![Mobile](https://user-images.githubusercontent.com/54015740/133538270-8d8d3ae2-1877-4e2d-9ad9-208cc2a018fe.png)![3](https://user-images.githubusercontent.com/54015740/133805056-29b37f79-800a-4aef-b46f-4e15431012d3.png)
 --------------------------------------------
 
 ## 🤍 Built With:
