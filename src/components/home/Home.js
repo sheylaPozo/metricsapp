@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { fetchCountries } from '../../redux/countries/countries';
@@ -38,12 +38,25 @@ const Grid = ({ items = [] }) => (
 
 const Home = () => {
   const continent = 'South America';
+  const [searchTerm, setSearchTerm] = useState('');
+  const [searchResults, setResults] = useState([]);
+
+  const handleChange = (event) => {
+    setSearchTerm(event.target.value);
+  };
 
   const dispatch = useDispatch();
   const { items, totalConfirmed, loading } = useSelector((state) => ({
     ...state.countries,
     loading: state.loadingBar.default,
   }));
+
+  useEffect(() => {
+    const results = items.filter(
+      (item) => item.name.toLowerCase().includes(searchTerm.toLowerCase()),
+    );
+    setResults(results);
+  }, [searchTerm]);
 
   useEffect(() => {
     if (!items.length) {
@@ -77,7 +90,13 @@ const Home = () => {
       </div>
       <section className="Home-stats">
         <h5 className="App-section-title">STATS BY COUNTRY</h5>
-        <Grid items={items} />
+        <input
+          type="text"
+          placeholder="Filter by country name..."
+          value={searchTerm}
+          onChange={handleChange}
+        />
+        <Grid items={searchTerm ? searchResults : items} />
       </section>
     </section>
   );
